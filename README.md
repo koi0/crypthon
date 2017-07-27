@@ -1,2 +1,2 @@
 # crypthon
-A python script which can encrypt stuff.
+## A python script that encrypts stuff
